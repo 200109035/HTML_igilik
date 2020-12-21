@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<meta name="description" content="Игілік қоры" />
+	<meta name="keywords" content="kor,money,kaiyrymdilik,temirlan" />
+	<link rel="stylesheet" href="assets/css/styleYgilik.css">
+</head>
+<body>
+	<div class="main">
+
+		<div class="head">
+			
+			<div class="logotype">
+				
+				<div class="logotype_text">
+					<h1><a href="#">Игілік қоры</a></h1>
+					<h2>Мінез көркі - игілік</h2>
+				</div>
+
+			</div>
+			<div class="menubar">
+				<ul class="menu">
+					<li class="selected"><a href="#">Бастапқы бет</a></li>
+					<li><a href="#">Жаңалықтар</a></li>
+					<li><a href="#">Істер</a></li>
+					<li><a href="#">Жалпы қор</a></li>
+					<li><a href="#">Бізбен байланыс</a></li>
+				</ul>	
+			</div>		
+
+		</div>
+
+		<div class="general">
+			
+			<div class="infobar">
+				
+
+			</div>
+
+
+
+			<div class="contenebar">
+				
+
+			</div>
+
+		</div>
+
+	</div>
+</body>
+</html>
